@@ -18,10 +18,10 @@ The purpose of this analysis is to assist the school board in making decisions r
         - Passing Math Percentage: (0.046481)
         - Passing Reading Percentage: (0.29013)
         - Overall Passing Percentage: (0.317688)
-        ###### School Summary before removing the ninth graders at Thomas High School
-        ![old]https://github.com/rshahba/School_District_Analysis/blob/main/Resources/old-district.png
-        ###### School Summary after removing the ninth graders at Thomas High School
-        ![new](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/new-district.png
+#### School Summary before removing the ninth graders at Thomas High School
+   ![old](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/old-district.png)
+#### School Summary after removing the ninth graders at Thomas High School
+   ![new](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/new-district.png)
 - How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade have been both affected very insignificantly
     - The following metricts have not been affected by replacing the ninth-grade score:
@@ -29,13 +29,13 @@ The purpose of this analysis is to assist the school board in making decisions r
         - Scores by school size
         - Scores by school type
 
-- Analysis of the Overal Passing Percentage based on school budget, size, and type:
-    ###### School Budget
-    [budget](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/budget.png)
-    - Data demonstrates that surprisingly, schools with lowr budgets per student have performed better in overal passing percetange (both reading and math)
-    ###### School Size
-    [size](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/size.png)
-    - Schools with 1000-2000 students, that are known as medium sized schools, have performed better in both math and reading overal passing percentage
-    ###### School Type
-    [type](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/type.png)
-    - Charter schools perform 1.684 times better than District schools in both reading and math percentages
+#### Analysis of the Overal Passing Percentage based on school budget, size, and type:
+##### School Budget
+   - Data demonstrates that surprisingly, schools with lowr budgets per student have performed better in overal passing percetange (both reading and math)
+    ![budget](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/budget.png)
+##### School Size 
+   - Schools with 1000-2000 students, that are known as medium sized schools, have performed better in both math and reading overal passing percentage
+    ![size](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/size.png)
+##### School Type
+   - Charter schools perform 1.684 times better than District schools in both reading and math percentages
+    ![type](https://github.com/rshahba/School_District_Analysis/blob/main/Resources/type.png)
